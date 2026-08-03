@@ -1,0 +1,305 @@
+=== HomeHarvest AI - Plant Knowledge Base ===
+
+--- ABOUT HOMEHARVEST APP ---
+HomeHarvest AI is a smart plant care app that sells indoor plants, outdoor plants, seasonal plants, and plant medicines. We sell plants like Snake Plant, Fiddle Leaf, Monstera, Peace Lily, Pothos, Rose Bush, Jasmine, Hibiscus, Poinsettia, Marigold, Lavender, Aloe Vera. We also sell plant medicines like Organic Fertilizer, Neem Oil, Root Boost, and Pest Control products.
+
+--- INDOOR PLANTS ---
+
+Snake Plant (Sansevieria):
+- Watering: Water every 2-6 weeks. Allow soil to dry completely between waterings. Overwatering causes root rot.
+- Light: Tolerates low light but grows best in indirect bright light.
+- Soil: Well-draining sandy soil or cactus mix.
+- Temperature: 60-80°F (15-27°C). Avoid frost.
+- Common problems: Yellow leaves mean overwatering. Brown tips mean low humidity or fluoride in water.
+- Benefits: Purifies air, removes toxins like formaldehyde and benzene.
+- Price at HomeHarvest: Rs. 7000
+
+Fiddle Leaf Fig (Ficus lyrata):
+- Watering: Water when top 2 inches of soil are dry. About once a week in summer, less in winter.
+- Light: Bright indirect light. Avoid direct harsh sunlight.
+- Soil: Well-draining potting mix with perlite.
+- Temperature: 60-75°F (15-24°C). Hates cold drafts.
+- Common problems: Brown spots from overwatering or underwatering. Dropping leaves from temperature changes.
+- Tips: Do not move the plant frequently. It likes stability.
+- Price at HomeHarvest: Rs. 12500
+
+Monstera Deliciosa (Swiss Cheese Plant):
+- Watering: Water every 1-2 weeks. Let top inch of soil dry out.
+- Light: Bright indirect light. Can tolerate medium light.
+- Soil: Rich well-draining potting mix.
+- Temperature: 65-85°F (18-29°C).
+- Common problems: Yellow leaves from overwatering. Brown crispy edges from low humidity.
+- Tips: Wipe leaves with damp cloth to remove dust. Use a moss pole for support.
+- Price at HomeHarvest: Rs. 8400
+
+Peace Lily (Spathiphyllum):
+- Watering: Water once a week. Drooping leaves signal it needs water.
+- Light: Low to medium indirect light. One of the best low-light plants.
+- Soil: Moist well-draining potting mix.
+- Temperature: 65-80°F (18-27°C).
+- Common problems: Brown leaf tips from fluoride or dry air. Yellow leaves from overwatering.
+- Benefits: Removes mold spores and purifies air.
+- Price at HomeHarvest: Rs. 7800
+
+Pothos (Epipremnum aureum):
+- Watering: Water every 1-2 weeks. Very drought tolerant.
+- Light: Tolerates low light to bright indirect light.
+- Soil: Any well-draining potting mix.
+- Temperature: 60-80°F (15-27°C).
+- Common problems: Yellow leaves from overwatering. Leggy growth from low light.
+- Tips: One of the easiest plants to grow. Great for beginners.
+- Price at HomeHarvest: Rs. 5600
+
+--- OUTDOOR PLANTS ---
+
+Rose Bush:
+- Watering: Water deeply 2-3 times per week. Avoid wetting leaves to prevent fungal disease.
+- Light: Full sun, at least 6 hours per day.
+- Soil: Rich loamy well-draining soil. pH 6.0-6.5.
+- Fertilizer: Feed every 2 weeks during growing season with rose fertilizer.
+- Pruning: Prune in early spring. Remove dead wood and crossing branches.
+- Common problems: Black spot fungus, aphids, powdery mildew.
+- Tips: Mulch around base to retain moisture and prevent weeds.
+- Price at HomeHarvest: Rs. 11700
+
+Jasmine:
+- Watering: Water regularly, keep soil moist but not waterlogged.
+- Light: Full sun to partial shade.
+- Soil: Well-draining fertile soil.
+- Temperature: 60-75°F (15-24°C).
+- Common problems: Root rot from overwatering. Spider mites in dry conditions.
+- Tips: Fragrant flowers bloom in summer. Train on trellis or fence.
+- Price at HomeHarvest: Rs. 10600
+
+Hibiscus:
+- Watering: Water deeply and regularly. Do not let soil dry out completely.
+- Light: Full sun, minimum 6 hours daily.
+- Soil: Moist well-draining slightly acidic soil.
+- Fertilizer: High potassium fertilizer promotes flowering.
+- Common problems: Yellow leaves from nutrient deficiency or overwatering. Aphids and whiteflies.
+- Tips: Prune after flowering to encourage new blooms.
+- Price at HomeHarvest: Rs. 9200
+
+--- SEASONAL PLANTS ---
+
+Poinsettia:
+- Watering: Water when top inch of soil is dry. Do not let sit in water.
+- Light: Bright indirect light, 6 hours daily.
+- Temperature: 65-70°F (18-21°C). Keep away from cold drafts.
+- Season: Popular in winter and Christmas season.
+- Common problems: Leaf drop from cold drafts or overwatering.
+- Tips: To re-bloom, give 14 hours of complete darkness for 8 weeks in autumn.
+- Price at HomeHarvest: Rs. 6100
+
+Marigold (Tagetes):
+- Watering: Water at base, avoid wetting flowers. Water when top inch is dry.
+- Light: Full sun.
+- Soil: Moderately fertile well-draining soil.
+- Season: Spring and summer bloomer.
+- Common problems: Powdery mildew in humid conditions. Spider mites.
+- Tips: Great companion plant. Repels pests naturally. Deadhead spent flowers for more blooms.
+- Price at HomeHarvest: Rs. 2200
+
+Lavender:
+- Watering: Water deeply but infrequently. Very drought tolerant once established.
+- Light: Full sun, at least 6-8 hours.
+- Soil: Sandy well-draining alkaline soil. pH 6.5-7.5.
+- Season: Blooms in summer.
+- Common problems: Root rot from overwatering or poor drainage. Leggy growth from insufficient light.
+- Tips: Prune after flowering. Excellent for attracting bees and butterflies.
+- Price at HomeHarvest: Rs. 3900
+
+Aloe Vera:
+- Watering: Water every 3 weeks in summer, every 4-6 weeks in winter. Let soil dry completely.
+- Light: Bright indirect to direct sunlight.
+- Soil: Sandy cactus or succulent mix.
+- Temperature: 55-80°F (13-27°C).
+- Common problems: Brown mushy leaves from overwatering. Thin pale leaves from insufficient light.
+- Uses: Gel from leaves soothes burns, sunburn, and skin irritation.
+- Tips: One of the most useful medicinal plants to keep at home.
+- Price at HomeHarvest: Rs. 2800
+
+--- FRUITS AND VEGETABLES FOR HOME GARDEN ---
+
+Tomatoes:
+- Watering: Water deeply and consistently, about 1-2 inches per week.
+- Light: Full sun, 6-8 hours daily.
+- Soil: Rich well-draining soil with compost. pH 6.0-6.8.
+- Fertilizer: High phosphorus fertilizer at planting, then high potassium when fruiting.
+- Common problems: Blossom end rot from calcium deficiency. Early blight fungal disease. Aphids and whiteflies.
+- Tips: Use stakes or cages for support. Remove suckers for better fruit production.
+
+Chillies and Peppers:
+- Watering: Water regularly, keep soil moist. Reduce watering when fruiting.
+- Light: Full sun.
+- Soil: Well-draining fertile soil.
+- Common problems: Blossom drop from temperature stress. Aphids and spider mites.
+- Tips: Grow well in pots. Great for Pakistani home gardens.
+
+Mint:
+- Watering: Keep soil consistently moist.
+- Light: Partial shade to full sun.
+- Soil: Rich moist soil.
+- Tips: Grows aggressively. Best grown in containers to control spreading. Great for chai (tea).
+
+Coriander (Dhaniya):
+- Watering: Water regularly, keep soil moist.
+- Light: Full sun to partial shade.
+- Soil: Well-draining fertile soil.
+- Tips: Sow seeds directly. Bolts quickly in heat. Grow in cool season in Pakistan.
+
+Spinach (Palak):
+- Watering: Keep soil consistently moist.
+- Light: Partial shade in hot weather.
+- Season: Best grown in winter in Pakistan (October to February).
+- Tips: Harvest outer leaves first to extend the plant's life.
+
+--- PLANT DISEASES AND TREATMENTS ---
+
+Root Rot:
+- Cause: Overwatering, poor drainage, fungal infection.
+- Symptoms: Yellowing leaves, wilting despite wet soil, black mushy roots.
+- Treatment: Remove plant from pot, cut off black roots, let dry, repot in fresh well-draining soil. Reduce watering.
+- Prevention: Always use pots with drainage holes. Never let plants sit in standing water.
+
+Powdery Mildew:
+- Cause: Fungal disease, high humidity, poor air circulation.
+- Symptoms: White powdery coating on leaves.
+- Treatment: Spray with neem oil solution or baking soda mixture (1 tsp baking soda + 1 liter water).
+- Prevention: Improve air circulation. Avoid overhead watering.
+
+Leaf Spot (Black Spot / Brown Spot):
+- Cause: Fungal or bacterial infection, overwatering, poor drainage.
+- Symptoms: Brown or black spots on leaves, sometimes with yellow halo.
+- Treatment: Remove affected leaves. Apply neem oil or copper fungicide.
+- Prevention: Water at base, not on leaves. Ensure good drainage.
+
+Aphids:
+- Cause: Small sap-sucking insects, usually green, black, or white.
+- Symptoms: Curled or distorted leaves, sticky residue (honeydew) on leaves.
+- Treatment: Spray with neem oil solution or insecticidal soap. Blast with water.
+- Prevention: Inspect plants regularly. Introduce ladybugs as natural predators.
+
+Spider Mites:
+- Cause: Tiny spider-like pests, thrive in hot dry conditions.
+- Symptoms: Fine webbing on leaves, tiny dots on leaf surface, yellowing leaves.
+- Treatment: Spray with neem oil or miticide. Increase humidity.
+- Prevention: Keep plants well-watered. Mist leaves regularly.
+
+Whiteflies:
+- Cause: Small white flying insects that suck plant sap.
+- Symptoms: Yellowing leaves, white flies when plant is disturbed, sticky leaves.
+- Treatment: Yellow sticky traps. Neem oil spray. Insecticidal soap.
+
+Overwatering Signs:
+- Yellow leaves, mushy stems, mold on soil surface, root rot, wilting despite wet soil.
+- Fix: Reduce watering frequency. Improve drainage. Repot if necessary.
+
+Underwatering Signs:
+- Dry crispy leaf edges, drooping wilted leaves, dry soil pulling away from pot edges.
+- Fix: Water thoroughly until water drains from bottom. Increase watering frequency.
+
+--- PLANT MEDICINES AND PRODUCTS AT HOMEHARVEST ---
+
+Organic Fertilizer:
+- Use: All-purpose plant nutrition for healthy growth.
+- How to use: Mix into soil or dissolve in water. Apply every 2-4 weeks during growing season.
+- Best for: All indoor and outdoor plants.
+- Price at HomeHarvest: Rs. 3350
+
+Neem Oil:
+- Use: Natural pesticide and fungicide. Controls aphids, spider mites, whiteflies, powdery mildew.
+- How to use: Mix 2ml neem oil + few drops dish soap in 1 liter water. Spray on leaves every 7-14 days.
+- Best for: Organic pest control without chemicals.
+- Price at HomeHarvest: Rs. 5000
+
+Root Boost:
+- Use: Stimulates root growth. Great for new plants, cuttings, and transplants.
+- How to use: Apply to roots when repotting or mix in watering can.
+- Best for: New plants, propagation, recovering sick plants.
+- Price at HomeHarvest: Rs. 4200
+
+Pest Control Spray:
+- Use: Kills and prevents common plant pests.
+- How to use: Spray directly on affected areas. Repeat every week until pests are gone.
+- Best for: Severe pest infestations.
+- Price at HomeHarvest: Rs. 6100
+
+--- GENERAL PLANT CARE TIPS ---
+
+Watering Tips:
+- Always check soil moisture before watering. Stick finger 1-2 inches into soil.
+- Water in the morning to allow leaves to dry during the day.
+- Use room temperature water. Cold water can shock tropical plants.
+- Rainwater or filtered water is better than tap water for sensitive plants.
+- Pots must have drainage holes to prevent root rot.
+
+Fertilizing Tips:
+- Fertilize during growing season (spring and summer). Reduce or stop in winter.
+- Never fertilize a stressed or sick plant.
+- Always water before fertilizing to avoid burning roots.
+- Yellow leaves can indicate nitrogen deficiency.
+- Purple leaves can indicate phosphorus deficiency.
+
+Repotting Tips:
+- Repot when roots come out of drainage holes or plant becomes root-bound.
+- Best time to repot is spring.
+- Choose a pot only 1-2 inches larger than current pot.
+- Use fresh potting mix when repotting.
+
+Light Tips:
+- Bright indirect light: Near window but not in direct sun beam.
+- Direct light: Full sun on windowsill or outdoors.
+- Low light: Away from windows, shaded areas.
+- Rotate plants every few weeks for even growth.
+
+Humidity Tips:
+- Most tropical plants prefer 40-60% humidity.
+- Increase humidity by misting leaves, using a pebble tray with water, or a humidifier.
+- Group plants together to create a humid microclimate.
+
+Propagation Tips:
+- Stem cuttings: Cut below a node, remove lower leaves, place in water or soil.
+- Leaf cuttings: Used for succulents and snake plants.
+- Division: Separate root clumps when repotting.
+- Best time to propagate is spring and summer.
+
+--- SEASONAL PLANT CARE IN PAKISTAN ---
+
+Summer (April - September):
+- Water more frequently due to heat.
+- Move sensitive plants away from harsh afternoon sun.
+- Watch for spider mites and aphids which thrive in heat.
+- Good plants to grow: Hibiscus, Marigold, Chillies, Tomatoes.
+
+Winter (October - March):
+- Reduce watering for most plants.
+- Bring tropical plants indoors.
+- Good plants to grow: Spinach, Coriander, Poinsettia, Lavender.
+- Protect plants from frost in northern Pakistan.
+
+Monsoon Season:
+- Reduce watering as rain provides moisture.
+- Watch for fungal diseases due to high humidity.
+- Ensure good drainage to prevent waterlogging.
+- Apply neem oil to prevent fungal and pest issues.
+
+--- PLANT BUYING GUIDE ---
+
+Best Plants for Beginners:
+- Pothos, Snake Plant, Aloe Vera, Peace Lily, Marigold.
+- These are low maintenance and hard to kill.
+
+Best Plants for Air Purification:
+- Snake Plant, Peace Lily, Pothos, Spider Plant.
+- These remove toxins from indoor air.
+
+Best Plants for Small Spaces:
+- Pothos, Aloe Vera, Snake Plant, Marigold in pots.
+
+Best Plants for Fragrance:
+- Jasmine, Lavender, Rose Bush.
+
+Best Plants for Pakistani Climate:
+- Hibiscus, Jasmine, Marigold, Rose Bush, Aloe Vera.
+- These thrive in warm Pakistani weather.

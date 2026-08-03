@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938719144910",
+    "project_id": "fypsignup-261d4",
+    "storage_bucket": "fypsignup-261d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938719144910:android:0b4914d429fe465f91199f",
+        "android_client_info": {
+          "package_name": "com.example.fyphomeharvest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRlp_QFIeEtPM5FQMaPQlgK2c-pQ63Zuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,3 @@
 # HomeHarvest-AI
+
 HomeHarvest AI provides an intelligent solution by allowing users to upload fruits and vegetables plant images for AI-based disease detection. The application identifies whether a plant is healthy or diseased, recommends suitable organic or chemical treatments, provides preventive care tips, and allows users to purchase recommended products through an integrated e-commerce system. An AI chatbot further assists users by answering plant care and gardening-related questions.

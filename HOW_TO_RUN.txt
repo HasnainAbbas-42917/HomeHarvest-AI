@@ -1,0 +1,176 @@
+# HomeHarvest AI - Setup Guide
+# =============================================
+# Follow these steps EXACTLY to run the project
+# =============================================
+
+
+# -----------------------------------------------
+# STEP 1 - INSTALL REQUIRED SOFTWARE
+# -----------------------------------------------
+
+1. Install Python 3.11 or 3.12
+   - Go to: https://www.python.org/downloads/
+   - Download and run the installer
+   - IMPORTANT: Check the box "Add Python to PATH" before clicking Install
+
+2. Install MySQL Server
+   - Go to: https://dev.mysql.com/downloads/installer/
+   - Download MySQL Installer
+   - During setup choose: MySQL Server + MySQL Workbench
+   - Set root password (remember it, you will need it in Step 4)
+
+3. Install Flutter
+   - Go to: https://docs.flutter.dev/get-started/install/windows
+   - Download Flutter SDK zip
+   - Extract it to C:\flutter
+   - Add C:\flutter\bin to System PATH:
+     * Press Win + S and search "Edit the system environment variables"
+     * Click Environment Variables
+     * Under User Variables click Path then Edit
+     * Click New and type: C:\flutter\bin
+     * Click OK on all windows
+   - Close and reopen terminal
+   - Run: flutter doctor
+   - Make sure Flutter and Chrome show checkmarks
+
+
+# -----------------------------------------------
+# STEP 2 - CREATE THE DATABASE
+# -----------------------------------------------
+
+Open MySQL Workbench or MySQL terminal and run:
+
+   mysql -u root -p < setup_db.sql
+
+OR open MySQL Workbench, click the + to open a new query tab,
+then go to File > Open SQL Script > select setup_db.sql > click Run
+
+
+# -----------------------------------------------
+# STEP 3 - UPDATE DATABASE PASSWORD IN app.py
+# -----------------------------------------------
+
+Open app.py in any text editor (Notepad, VS Code, etc.)
+
+Find these 2 lines and replace "muhammad@555" with YOUR MySQL password:
+
+   Line 1 (around line 27):
+   passwd='muhammad@555'
+
+   Line 2 (around line 47):
+   passwd='muhammad@555'
+
+Save the file.
+
+
+# -----------------------------------------------
+# STEP 4 - INSTALL PYTHON PACKAGES
+# -----------------------------------------------
+
+Open Command Prompt (search "cmd" in Start menu) and run:
+
+   pip install flask flask-cors mysqlclient bcrypt stripe chromadb sentence-transformers requests pillow torch torchvision groq
+
+
+# -----------------------------------------------
+# STEP 5 - INSTALL FLUTTER PACKAGES
+# -----------------------------------------------
+
+In Command Prompt, go to the project folder:
+
+   cd C:\Users\YOUR_NAME\Desktop\fyphomeharvest
+
+Replace YOUR_NAME with your Windows username, then run:
+
+   flutter pub get
+
+
+# -----------------------------------------------
+# STEP 6 - RUN THE PROJECT
+# -----------------------------------------------
+
+You need TWO terminal windows open at the same time.
+
+--- Terminal 1 (Backend / Flask) ---
+   cd C:\Users\YOUR_NAME\Desktop\fyphomeharvest
+   python app.py
+
+Wait until you see:
+   * Running on http://127.0.0.1:5000
+   * Running on http://0.0.0.0:5000
+
+--- Terminal 2 (Frontend / Flutter) ---
+   cd C:\Users\YOUR_NAME\Desktop\fyphomeharvest
+   flutter run -d chrome
+
+Wait for Chrome to open automatically with the app.
+
+
+# -----------------------------------------------
+# STEP 7 - EVERY TIME YOU WANT TO RUN THE APP
+# -----------------------------------------------
+
+You only need to do Steps 6 every time.
+Steps 1-5 are one time setup only.
+
+Open 2 terminals and run:
+
+Terminal 1:
+   cd C:\Users\YOUR_NAME\Desktop\fyphomeharvest
+   python app.py
+
+Terminal 2:
+   cd C:\Users\YOUR_NAME\Desktop\fyphomeharvest
+   flutter run -d chrome
+
+
+# -----------------------------------------------
+# COMMON ERRORS AND FIXES
+# -----------------------------------------------
+
+ERROR: "flutter is not recognized"
+FIX: Close terminal and reopen it. If still not working,
+     check that C:\flutter\bin is added to PATH correctly.
+
+ERROR: "pip is not recognized"
+FIX: Python was not added to PATH during install.
+     Reinstall Python and check "Add Python to PATH".
+
+ERROR: "Access denied for user root"
+FIX: Wrong MySQL password in app.py. Open app.py and
+     update passwd='YOUR_CORRECT_PASSWORD'
+
+ERROR: "No module named flask" or any module error
+FIX: Run this command again:
+     pip install flask flask-cors mysqlclient bcrypt stripe chromadb sentence-transformers requests pillow torch torchvision groq
+
+ERROR: "Cannot connect to server" in the app
+FIX: Make sure python app.py is running in Terminal 1
+     before opening the Flutter app.
+
+ERROR: "Table doesn't exist"
+FIX: You did not run setup_db.sql. Go back to Step 2.
+
+
+# -----------------------------------------------
+# PROJECT FOLDER STRUCTURE (must have these files)
+# -----------------------------------------------
+
+fyphomeharvest/
+   app.py                              <- Flask backend
+   setup_db.sql                        <- Database setup
+   plant-disease-model-complete.pth    <- AI disease model
+   plant_knowledge.txt                 <- Chatbot knowledge
+   class_indices.json                  <- Disease class labels
+   pubspec.yaml                        <- Flutter config
+   lib/                                <- Flutter app code
+   assets/                             <- Images
+   chroma_db/                          <- Chatbot AI data
+
+
+# -----------------------------------------------
+# CONTACT
+# -----------------------------------------------
+
+If you face any issue not listed above, contact:
+Waliq - the person who sent you this project.
